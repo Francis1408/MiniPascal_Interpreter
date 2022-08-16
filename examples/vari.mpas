@@ -1,0 +1,9 @@
+program constan;
+
+const
+	i = 10;
+
+begin
+
+
+end.

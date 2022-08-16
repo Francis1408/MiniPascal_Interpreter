@@ -1,0 +1,11 @@
+(*teste*)
+
+
+program teste;
+
+a = 10;
+b = 7;
+
+c = a + b;
+
+write('cabo');
